@@ -19,3 +19,15 @@
     justify-content: space-between;
     align-items: center;
 }
+
+.header-menu {
+    display: flex;
+    gap: 20px;
+}
+
+.header-menu a {
+    display: inline-block;
+    padding: 16px 0;
+    color: #fff;
+    font-size: 1.125rem;
+}
