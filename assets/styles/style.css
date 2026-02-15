@@ -116,6 +116,12 @@ img {
     background: linear-gradient(#ffb60d, #e59317);
 }
 
+@media (max-width: 1200px) {
+    .introducao h1 {
+        font-size: 3rem;
+    }
+}
+
 @media (max-width: 800px) {
     .header-menu {
         gap: 20px;
