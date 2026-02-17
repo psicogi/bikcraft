@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
 @import "global/global.css"; /* estilo global */
+
 @import "global/header.css"; /* estilo do header */
 @import "home/introducao.css"; /* estilo do home */
+
+
 @import "utilitarios/componentes.css"; /* estilo dos componentes */
+@import "utilitarios/tipografia.css"; /* tipografia */
+@import "utilitarios/cores.css"; /* cores */
