@@ -4,6 +4,7 @@
 
 @import "global/header.css"; /* estilo do header */
 @import "home/introducao.css"; /* estilo do home */
+@import "bicicletas/bicicletas-lista.css"; /* estilo da lista de bike */
 
 
 @import "utilitarios/componentes.css"; /* estilo dos componentes */
