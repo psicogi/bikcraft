@@ -7,6 +7,7 @@
 @import "bicicletas/bicicletas-lista.css"; /* estilo da lista de bike */
 @import "home/tecnologia.css"; /* estilo das tecnologias */
 @import "home/parceiros.css"; /* estilo dos parceiros */
+@import "home/depoimento.css"; /* estilo do depoimento */
 
 
 @import "utilitarios/componentes.css"; /* estilo dos componentes */
