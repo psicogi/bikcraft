@@ -10,6 +10,7 @@
 @import "global/header.css"; /* estilo do header */
 @import "home/introducao.css"; /* estilo do home */
 @import "bicicletas/bicicletas-lista.css"; /* estilo da lista de bike */
+@import "bicicletas/bicicletas.css"; /* estilo da pag de bikes */
 @import "home/tecnologia.css"; /* estilo das tecnologias */
 @import "home/parceiros.css"; /* estilo dos parceiros */
 @import "home/depoimento.css"; /* estilo do depoimento */
