@@ -5,6 +5,7 @@
 @import "utilitarios/componentes.css"; /* estilo dos componentes */
 @import "utilitarios/tipografia.css"; /* tipografia */
 @import "utilitarios/cores.css"; /* cores */
+@import "utilitarios/formulario.css"; /* formularios */
 
 
 @import "global/header.css"; /* estilo do header */
@@ -20,4 +21,6 @@
 @import "seguros/vantagens.css"; /* estilo das vantagens dos seguros */
 @import "seguros/perguntas.css"; /* estilo das perguntas dos seguros */
 @import "global/footer.css"; /* estilo do footer */
+@import "contato/contato.css"; /* estilo do contato */
+@import "contato/lojas.css"; /* estilo das lojas */
 @import "termos/termos.css"; /* estilo dos termos */
