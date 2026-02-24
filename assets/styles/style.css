@@ -23,4 +23,5 @@
 @import "global/footer.css"; /* estilo do footer */
 @import "contato/contato.css"; /* estilo do contato */
 @import "contato/lojas.css"; /* estilo das lojas */
+@import "orcamento/orcamento.css"; /* estilo do orçamento */
 @import "termos/termos.css"; /* estilo dos termos */
