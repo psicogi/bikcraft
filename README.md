@@ -1,10 +1,10 @@
-# 🚲 Bikcraft - Bicicletas Elétricas
+#  Bikcraft - Bicicletas Elétricas
 
 O **Bikcraft** é um site institucional e e-commerce fictício desenvolvido para uma marca de bicicletas artesanais.
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 O projeto foi construído utilizando as melhores práticas de desenvolvimento web moderno:
 
@@ -15,7 +15,7 @@ O projeto foi construído utilizando as melhores práticas de desenvolvimento we
 
 ---
 
-## 🛠️ Funcionalidades e Diferenciais
+##  Funcionalidades e Diferenciais
 
 * **Layout Responsivo:** Adaptado para dispositivos móveis, tablets e desktops (Mobile First).
 * **Interatividade com JS:**
@@ -27,7 +27,7 @@ O projeto foi construído utilizando as melhores práticas de desenvolvimento we
 
 ---
 
-## 📸 Demonstração
+##  Demonstração
 
 Você pode visualizar o projeto online clicando no link abaixo:
 
@@ -35,7 +35,7 @@ Você pode visualizar o projeto online clicando no link abaixo:
 
 ---
 
-## 👤 Autora
+##  Autora
 
 **Giovania Dantas**
 * LinkedIn: https://www.linkedin.com/in/devgioo
